@@ -35,8 +35,8 @@ It also includes classification of the compounds into:
 
 ## Project Structure
 📁 perovskite-material-property-prediction
-├── perovskite_analysis.ipynb
-├── requirements.txt
-├── README.md
-└── assets (optional images / charts)
+- perovskite_analysis.ipynb
+-  requirements.txt
+-   README.md
+
 
