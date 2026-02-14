@@ -39,4 +39,6 @@ It also includes classification of the compounds into:
 -  requirements.txt
 -   README.md
 
-Result images can be found inside the assets folder.
+## Note 
+- Result images can be found inside the assets folder.
+- Download the zip file to access the code 
