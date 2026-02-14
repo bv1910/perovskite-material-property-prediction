@@ -34,9 +34,9 @@ It also includes classification of the compounds into:
 - Matplotlib / Seaborn
 
 ## Project Structure
-📁 perovskite-material-property-prediction
+ perovskite-material-property-prediction
 - perovskite_analysis.ipynb
 -  requirements.txt
 -   README.md
 
-
+Result images can be found inside the assets folder.
