@@ -38,6 +38,20 @@ It also includes classification of the compounds into:
 - perovskite_analysis.ipynb
 -  requirements.txt
 -   README.md
+-   assets/
+-   Dataset/
+
+## Installation
+
+```bash
+git clone https://github.com/bv1910/perovskite-material-property-prediction.git
+cd perovskite-material-property-prediction
+pip install -r requirements.txt
+jupyter notebook
+```
+
+---
+
 
 ## Note 
 - Result images can be found inside the assets folder.
