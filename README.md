@@ -1,4 +1,8 @@
 # perovskite-material-property-prediction
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+
 Comparative analysis of regression models for double perovskite property prediction using LazyPredict and classification into conductors, semiconductors & insulators.
 
 # Double Perovskite Material Property Prediction
@@ -26,12 +30,15 @@ It also includes classification of the compounds into:
 - Prediction of colour when sunlight affects these compounds
 
 ##  Technologies Used
-- Python
-- Jupyter Notebook
-- LazyPredict
-- Scikit-learn
-- Pandas, NumPy
-- Matplotlib / Seaborn
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- LazyPredict  
+- SHAP  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
 
 ## Project Structure
  perovskite-material-property-prediction
